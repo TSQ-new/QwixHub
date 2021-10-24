@@ -232,7 +232,7 @@ function finity.new(isdark, gprojectName, thinProject)
 		BackgroundColor3 = Color3.new(0.976471, 0.937255, 1),
 		BackgroundTransparency = 1,
 		BorderColor3 = Color3.new(0.745098, 0.713726, 0.760784),
-		Size = UDim2.new(0, 120, 1, -30),
+		Size = UDim2.new(0, 60, 1, -15),
 		Position = UDim2.new(0, 0, 0, 30),
 		ZIndex = 2,
 	})
